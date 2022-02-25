@@ -4,4 +4,4 @@
 
 - Currently focusing on iOS Development with SwiftUI through Codecademy's [iOS Developer Career Path](https://www.codecademy.com/learn/paths/ios-developer) and Apple's [iOS App Dev Tutorials](https://developer.apple.com/tutorials/app-dev-training)
 
-- This is my public GitHub page to showcase some of the work I have been up to, so if you have any questions about it feel free to contact me on jfmauricio5@gmail.com.
+- If you have any questions about any of my projects feel free to contact me on jfmauricio5@gmail.com.
